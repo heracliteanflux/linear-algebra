@@ -24,10 +24,13 @@ Petersen, Kaare Brandt & Michael Syskind Pedersen. (2012). [_The Matrix Cookbook
 
 * Aggarwal, Charu C. (2020). _Linear Algebra and Optimization for Machine Learning: A Textbook_. Springer.
 * [ [h](https://linear.axler.net) ] Axler, Sheldon. (2015). _Linear Algebra Done Right_. 3rd Ed. Springer Undergraduate Texts in Mathematics.
+* Cameron, Peter J. _Notes on Linear Algebra_.
 * [ [h](https://www.math.ucdavis.edu/~linear/) ] Cherney et al. (2016). _Linear Algebra_.
 * Golub, Gene H. & Charles F. Van Loan. (2013). _Matrix Computations_. 4th Ed. [Johns Hopkins University](https://www.press.jhu.edu/books/title/10678/matrix-computations).
 * [ [h](http://joshua.smcvt.edu/linearalgebra/#current_version) ] Hefferon, Jim. _Linear Algebra, 4th Ed_.
 * [ [h](https://codingthematrix.com/) ][ [y](https://www.youtube.com/channel/UCGVa4wp8SWGFtMe6hcdpHlg/playlists) ] Klein, Philip N. (2013). _Coding the Matrix_. Newtonian Press.
+* [ [h](https://www.math.ucdavis.edu/~anne/linear_algebra/) ] Lankham, Isaiah; Bruno Nachtergaele; & Anne Schilling. _Linear Algebra - As an Introduction to Abstract Mathematics_.
+* Lang, Serge.
 * Olver, Peter J. & Chehrzad Shakiban. (2018). _Applied Linear Algebra_. 2nd Ed. Springer Undergraduate Texts in Mathematics.
 * Roman, Steven. _Advanced Linear Algebra_. 3rd Ed. Springer Graduate Texts in Mathematics.
 * Shores, Thomas S. (2018). _Applied Linear Algebra and Matrix Analysis_. 2nd Ed. Springer Undergraduate Texts in Mathematics.
@@ -37,6 +40,7 @@ Petersen, Kaare Brandt & Michael Syskind Pedersen. (2012). [_The Matrix Cookbook
 * [ [h](https://math.mit.edu/~gs/learningfromdata/) ] Strang, Gilbert. (2019). _Linear Algebra and Learning from Data_. [Wellesley-Cambridge Press](https://www.wellesleycambridge.com/).
 * Strang, Gilbert. (2016). _Introduction to Linear Algebra, 5th Ed_.
 * [ [h](https://math.mit.edu/~gs/cse/) ] Strang, Gilbert. (2007). _Computational Science and Engineering_. [Wellesley-Cambridge Press](https://www.wellesleycambridge.com/).
+* [ [h](https://neilstrickland.github.io/linear_maths/) ] Strickland, Neil. _Linear mathematics for applications_.
 * [ [h](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong) ] Treil, Sergei. (2017). _Linear Algebra Done Wrong_.
 
 ## Terms
