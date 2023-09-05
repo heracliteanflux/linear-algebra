@@ -27,6 +27,7 @@ Petersen, Kaare Brandt & Michael Syskind Pedersen. (2012). [_The Matrix Cookbook
 * [ [h](https://www.math.ucdavis.edu/~linear/) ] Cherney et al. (2016). _Linear Algebra_.
 * Golub, Gene H. & Charles F. Van Loan. (2013). _Matrix Computations_. 4th Ed. [Johns Hopkins University](https://www.press.jhu.edu/books/title/10678/matrix-computations).
 * [ [h](http://joshua.smcvt.edu/linearalgebra/#current_version) ] Hefferon, Jim. _Linear Algebra, 4th Ed_.
+* [ [h](https://codingthematrix.com/) ][ [y](https://www.youtube.com/channel/UCGVa4wp8SWGFtMe6hcdpHlg/playlists) ] Klein, Philip N. (2013). _Coding the Matrix_. Newtonian Press.
 * Olver, Peter J. & Chehrzad Shakiban. (2018). _Applied Linear Algebra_. 2nd Ed. Springer Undergraduate Texts in Mathematics.
 * Roman, Steven. _Advanced Linear Algebra_. 3rd Ed. Springer Graduate Texts in Mathematics.
 * Shores, Thomas S. (2018). _Applied Linear Algebra and Matrix Analysis_. 2nd Ed. Springer Undergraduate Texts in Mathematics.
@@ -40,23 +41,47 @@ Petersen, Kaare Brandt & Michael Syskind Pedersen. (2012). [_The Matrix Cookbook
 
 ## Terms
 
+* [ [w](https://en.wikipedia.org/wiki/Adjacency_matrix) ] Adjacency Matrix
 * [ [w](https://en.wikipedia.org/wiki/Array_(data_structure)) ] Array
+* [ [w](https://en.wikipedia.org/wiki/Block_matrix) ] Block Matrix
 * [ [w](https://en.wikipedia.org/wiki/Colorimetry) ] Colorimetry
 * [ [w](https://en.wikipedia.org/wiki/Row-_and_column-major_order) ] Column-Major Order
 * [ [w](https://en.wikipedia.org/wiki/Row_and_column_vectors) ] Column Vector
+* [ [w](https://en.wikipedia.org/wiki/Definite_matrix) ] Definite Matrix
+* [ [w](https://en.wikipedia.org/wiki/Diagonal_matrix) ] Diagonal Matrix
 * [ [w](https://en.wikipedia.org/wiki/Exterior_algebra) ] Exterior Algebra
+* [ [w](https://en.wikipedia.org/wiki/Gram_matrix) ] Gram Matrix
 * [ [w](https://en.wikipedia.org/wiki/Grayscale#Colorimetric_(perceptual_luminance-reserving)_conversion_to_grayscale) ] Grayscale
+* [ [w](https://en.wikipedia.org/wiki/Hermitian_matrix) ] Hermitian Matrix
+* [ [w](https://en.wikipedia.org/wiki/Hessian_matrix) ] Hessian Matrix
+* [ [w](https://en.wikipedia.org/wiki/Identity_matrix) ] Identity Matrix
+* [ [w](https://en.wikipedia.org/wiki/Incidence_matrix) ] Incidence Matrix
+* [ [w](https://en.wikipedia.org/wiki/Invertible_matrix) ] Invertible Matrix
+* [ [w](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant) ] Jacobian Matrix
 * [ [w](https://en.wikipedia.org/wiki/Linear_algebra) ] Linear Algebra
 * [ [w](https://en.wikipedia.org/wiki/Linear_map) ] Linear Map
+* [ [w](https://en.wikipedia.org/wiki/Logical_matrix) ] Logical Matrix
+* [ [w](https://en.wikipedia.org/wiki/Matrix_(mathematics)) ] Matrix
+* [ [w](https://en.wikipedia.org/wiki/Matrix_calculus) ] Matrix Calculus
 * [ [w](https://en.wikipedia.org/wiki/Matrix_decomposition) ] Matrix Decomposition
+* [ [w](https://en.wikipedia.org/wiki/Matrix_multiplication) ] Matrix Multiplication
+* [ [w](https://en.wikipedia.org/wiki/Matrix_of_ones) ] Matrix of Ones
 * [ [w](https://en.wikipedia.org/wiki/Matrix_representation) ] Matrix Representation
+* [ [w](https://en.wikipedia.org/wiki/Matrix_representation_of_conic_sections) ] matrix representation of conic sections
 * [ [w](https://en.wikipedia.org/wiki/Multilinear_algebra) ] Multilinear Algebra
 * [ [w](https://en.wikipedia.org/wiki/Multivector) ] Multivector
 * [ [w](https://en.wikipedia.org/wiki/Rotation_(mathematics)) ] Rotation
+* [ [w](https://en.wikipedia.org/wiki/Rotation_matrix) ] Rotation Matrix
 * [ [w](https://en.wikipedia.org/wiki/Row-_and_column-major_order) ] Row-Major Order
 * [ [w](https://en.wikipedia.org/wiki/Row_and_column_vectors) ] Row Vector
 * [ [w](https://en.wikipedia.org/wiki/Singular_value) ] Singular Value
 * [ [w](https://en.wikipedia.org/wiki/Singular_value_decomposition) ] Singular Value Decomposition
+* [ [w](https://en.wikipedia.org/wiki/Sparse_matrix) ] Sparse Matrix
+* [ [w](https://en.wikipedia.org/wiki/Square_matrix) ] Square Matrix
+* [ [w](https://en.wikipedia.org/wiki/Symmetric_matrix) ] Symmetric Matrix
 * [ [w](https://en.wikipedia.org/wiki/Tensor_reshaping) ] Tensor Reshaping
+* [ [w](https://en.wikipedia.org/wiki/Transformation_matrix) ] Transformation Matrix
+* [ [w](https://en.wikipedia.org/wiki/Transpose) ] Transpose
 * [ [w](https://en.wikipedia.org/wiki/Vectorization_(mathematics)) ] Vectorization
 * [ [w](https://en.wikipedia.org/wiki/Z-order_curve) ] Z-Order Curve
+* [ [w](https://en.wikipedia.org/wiki/Zero_matrix) ] Zero Matrix
