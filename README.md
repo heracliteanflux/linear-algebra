@@ -42,6 +42,7 @@ Petersen, Kaare Brandt & Michael Syskind Pedersen. (2012). [_The Matrix Cookbook
 * [ [h](https://math.mit.edu/~gs/cse/) ] Strang, Gilbert. (2007). _Computational Science and Engineering_. [Wellesley-Cambridge Press](https://www.wellesleycambridge.com/).
 * [ [h](https://neilstrickland.github.io/linear_maths/) ] Strickland, Neil. _Linear mathematics for applications_.
 * [ [h](https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong) ] Treil, Sergei. (2017). _Linear Algebra Done Wrong_.
+* Tsukada et al. (2023). _Linear Algebra with Python: Theory and Applications_. Springer Undergraduate Texts in Mathematics and Technology.
 
 ## Terms
 
